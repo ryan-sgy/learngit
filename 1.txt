@@ -3,5 +3,5 @@ git is a free software
 Git is a distributed version control system
 Third modify
 git has a mutable index called stage
-git tracks changes
+git tracks changes of files
 
